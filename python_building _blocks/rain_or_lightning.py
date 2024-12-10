@@ -3,5 +3,5 @@ raining=input("Is it raining?(Type 'Yes' or 'No'):")
 lightning=input("Is it lightning?(Type 'Yes' or 'No'):")
 if raining == 'Yes':
     print("Go out with umbrella or play in water")
-if raining== 'Yes'and lightning == 'Yes':
+if lightning == 'Yes':
     print("Don't go out!")
