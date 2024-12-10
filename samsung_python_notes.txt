@@ -12,7 +12,7 @@ https://github.com/neelmyna/kleit_dec2024
 3. Organising and Arranging Files and Folders in our System:
 	1. Create new folder named "software" in C drive
 	2. Create following folders inside "C:\software"
-		git, pyhton, vs_code, notepad_pp, mingw, jdk, eclipse, mysql, postman, node etc.
+		git, python, vs_code, notepad_pp, mingw, jdk, eclipse, mysql, postman, node etc.
 	3. Download all the installer files and cut and paste them from "downloads" folder into respective folder.
 	4. Now Install them one by one by using double click
 	5. Add the path of the Applications to "environment variables" which we wish to use the CLI from any path of our choice.
@@ -20,7 +20,7 @@ https://github.com/neelmyna/kleit_dec2024
 	
 4. Cofigure your github account on your system.
 	$ git config --global user.name "neelmyna"
-	$ get config --global user.email "nithinemail@gmail.com"
+	$ git config --global user.email "nithinemail@gmail.com"
 
 5. Steps to create PAT (personal access token)
 	1. Click on Profile Pic (Right Top most corner) -> Click settings
