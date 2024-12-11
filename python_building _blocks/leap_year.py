@@ -2,5 +2,5 @@
 
 input_leapyear = int(input("Enter a year :"))
 
-if input_leapyear % 4 == 0:
+if input_leapyear % 4 == 0 and input_year % 100 == 0:
     print(f"{input_leapyear} is a leap year")
