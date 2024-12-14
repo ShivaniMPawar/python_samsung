@@ -24,7 +24,7 @@ tax_amount=0
 if taxable_salary >=300001 and taxable_salary <= 600000:
     tax_amount = taxable_salary * 0.05
 elif taxable_salary >= 600001 and taxable_salary <= 900000:
-    tax_amount= taxable_salary * 
+    tax_amount= taxable_salary 
 section=input("Are you eligible for 87A Rebate? (Type 'yes' or 'no') : ")
 if section.lower() == 'yes':
     if taxable_salary <= 700000:
